@@ -1,0 +1,1932 @@
+ @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+.mydd{
+height:100%;
+width:100%;
+margin-top:-10px;
+padding: 0;
+background:red;
+}  
+
+.tab2 {
+float: left;
+border: 1px solid #ccc;
+background-color: #0f0c0c;
+width: 100%;
+color:white;
+}
+
+/* Style the buttons inside the tab */
+.tab2 button {
+display: block;
+background-color: inherit;
+color:#ccc;
+padding: 22px 16px;
+width: 100%;
+border: none;
+outline: none;
+text-align: left;
+cursor: pointer;
+transition: 0.3s;
+font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab2 button:hover {
+background-color: #ac6405;
+color:black;
+}
+
+/* Create an active/current "tab button" class */
+.tab2 button.active {
+background-color: #ac6405;
+}
+
+/* Style the tab content */
+.tabcontent2 {
+float: left;
+color:white;
+padding: 0px 12px;
+border: 1px solid #ccc;
+width: 100%;
+border-left: none;
+background:#00008B;
+height: 1000px;
+}
+.tab4 {
+float: left;
+border: 1px solid #ccc;
+background-color: #0f0c0c;
+width: 100%;
+color:white;
+}
+
+/* Style the buttons inside the tab */
+.tab4 button {
+display: block;
+background-color: inherit;
+color:#ccc;
+padding: 22px 16px;
+width: 100%;
+border: none;
+outline: none;
+text-align: left;
+cursor: pointer;
+transition: 0.3s;
+font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab4 button:hover {
+background-color: #ac6405;
+color:black;
+}
+
+/* Create an active/current "tab button" class */
+.tab4 button.active {
+background-color: #ac6405;
+}
+
+/* Style the tab content */
+.tabcontent4 {
+float: left;
+color:white;
+padding: 0px 12px;
+border: 1px solid #ccc;
+width: 100%;
+border-left: none;
+background:#00008B;
+height: 1000px;
+}
+
+.tab8 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab8 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab8 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab8 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent8 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab9 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab9 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab9 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab9 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent9 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab11 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab11 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab11 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab11 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent11 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab12 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab12 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab12 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab12 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent12 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab13 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab13 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab13 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab13 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent13 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab14 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab14 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab14 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab14 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent14 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab15 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab15 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab15 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab15 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent15 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab16 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab16 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab16 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab16 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent16 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab17 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab17 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab17 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab17 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent17 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab18 {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab18 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab18 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab18 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent18 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab19{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab19 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab19 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab19 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent19 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab191{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab191 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab191 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab191 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent191 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab192{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab192 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab192 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab192 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent192 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab193{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab193 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab193 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab193 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent193 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab194{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab194 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab194 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab194 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent194 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab195{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab195 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab195 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab195 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent195 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab196{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab196 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab196 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab196 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent196 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab197{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab197 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab197 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab197 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent197 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab198{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab198 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab198 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab198 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent198 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab100{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab100 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab100 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab100 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent100 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab101{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab101 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab101 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab101 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent101 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab102{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab102 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab102 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab102 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent102 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab103{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab103 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab103 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab103 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent103 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab104{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab104 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab104 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab104 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent104 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab105{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab105 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab105 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab105 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent105 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab106{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab106 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab106 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab106 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent106 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab107{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab107 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab107 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab107 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent107 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab108{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab108 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab108 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab108 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent108 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+  .tab109{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab109 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab109 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab109 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent109 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab110{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab110 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab110 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab110 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent110 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+  .tab1000{
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #0f0c0c;
+    width: 100%;
+    color:white;
+  }
+  
+  /* Style the buttons inside the tab */
+  .tab1000 button {
+     display: block;
+    background-color: inherit;
+    color:#ccc;
+    padding: 22px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+  }
+  
+  /* Change background color of buttons on hover */
+  .tab1000 button:hover {
+     background-color: #ac6405;
+    color:black;
+  }
+  
+  /* Create an active/current "tab button" class */
+  .tab1000 button.active {
+    background-color: #ac6405;
+  }
+  
+  /* Style the tab content */
+  .tabcontent1000 {
+   float: left;
+    color:white;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-left: none;
+    background:#00008B;
+    height: 1000px;
+  }
+
+
+:root {
+  --primary: #ec994b;
+  --white: #ffffff;
+  --bg: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.html8 {
+  font-size: 62.5%;
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+@media (min-width: 1440px) {
+  .html8 {
+    zoom: 1.5;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+}
+
+@media (min-width: 2560px) {
+  .html8 {
+    zoom: 1.7;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+}
+
+@media (min-width: 3860px) {
+  .html8 {
+    zoom: 2.5;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 1rem;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 1rem;
+  background: black;
+  transition: all 0.5s ease-in-out;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar-track {
+  background: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.body8 {
+  font-size: 1.6rem;
+  background:rgb(17, 17, 17);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 124rem;
+  padding: 0 1rem;
+  margin: 0 auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+#texx{
+  margin-bottom: 50px;
+}
+.text-center {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  color:#ccc;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.section-heading {
+  font-size: 3rem;
+  color: var(--primary);
+  padding: 2rem 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+#tranding {
+  padding: 4rem 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+@media (max-width:1440px) {
+  #tranding {
+    padding: 7rem 0;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  
+}
+
+#tranding .tranding-slider {
+  height: 36rem;
+  padding: 2rem 0;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+@media (max-width:500px) {
+  #tranding .tranding-slider {
+    height: 38rem;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  .tranding-slide-content .tranding-slide-content-bottom {
+    position: absolute;
+    margin: 0px;
+    padding: 5px;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    top: 31rem;
+    left: 0rem;
+    color: black;
+    border-radius: 20px;
+    background: rgb(172, 100, 5);
+    border: 4px solid black;
+}
+#uuuu{
+  margin-top: 50px;
+}
+}
+
+.tranding-slide {
+  width: 37rem;
+  height: 42rem;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+@media (max-width:500px) {
+  .tranding-slide {
+    width: 26rem !important;
+    height: 34rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  .tranding-slide .tranding-slide-img img {
+    width: 26rem !important;
+    height: 34rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+}
+@media (max-width:600px) {
+  .tranding-slide {
+    width: 32rem !important;
+    height: 40rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  .tranding-slide .tranding-slide-img img {
+    width: 32rem !important;
+    height: 40rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+#tranding .tranding-slider {
+  height: 46rem;
+  padding: 2rem 0;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+}
+#uuuu{
+  margin-top: 110px;
+}
+}
+@media (max-width:490px) {
+  .tranding-slide {
+    width: 24rem !important;
+    height: 32rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  .tranding-slide .tranding-slide-img img {
+    width: 24rem !important;
+    height: 32rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  #tranding .tranding-slider {
+    height: 40rem;
+    padding: 2rem 0;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+  }
+  #uuuu{
+    margin-top: 0px;
+  }
+}
+@media (max-width:370px) {
+  .tranding-slide {
+    width: 20rem !important;
+    height: 28rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  .tranding-slide .tranding-slide-img img {
+    width: 20rem !important;
+    height: 28rem !important;
+    margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  }
+  #tranding .tranding-slider {
+    height: 32rem;
+    padding: 2rem 0;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+  }
+  #uuuu{
+    margin-top: -60px;
+  }
+}
+
+.tranding-slide .tranding-slide-img img {
+  width: 30rem;
+  height: 32rem;
+  border-radius: 2rem;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  object-fit: cover;
+}
+
+.tranding-slide .tranding-slide-content {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.tranding-slide-content .food-price {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  top: 2rem;
+  right: 2rem;
+  color: var(--white);
+}
+
+.tranding-slide-content .tranding-slide-content-bottom {
+  position: absolute;
+  margin: 0;
+  padding: 5px;
+  box-sizing: border-box;
+  list-style-type: none;
+  text-decoration: none;
+  top:30rem;
+  left: 0rem;
+  color:black;
+  border-radius: 20px;
+  background:#ac6405;
+  border:4px solid black;
+}
+.tab7I {
+  float: left;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  width: 30%;
+  height: 300px;
+}
+
+/* Style the buttons inside the tab */
+.tab7I button {
+  display: block;
+  background-color: inherit;
+  color: black;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: left;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab7I button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab7I button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent7I {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 100%;
+  border-left: none;
+}
+.tablinks7I{
+  background: rgb(172, 100, 5);
+  border:none;
+}

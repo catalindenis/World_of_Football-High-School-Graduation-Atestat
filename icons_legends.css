@@ -1,0 +1,233 @@
+.encapsulare * {box-sizing: border-box}
+  .encapsulare {
+    height: 100%;
+    margin: 0;
+    font-family: Arial;
+  }
+  
+  .tablink {
+    background-color: rgb(44, 30, 0);
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
+  }
+  
+  .tablink:hover {
+    background-color: rgb(187, 90, 0);
+  }
+  
+  .tabcontent {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+  ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      border: 1px solid #e7e7e7;
+      background-color: #f3f3f3;
+    }
+    
+   .encapsulare * {
+      box-sizing: border-box;
+    }
+    .encapsulare {
+      font-family: Arial, Helvetica, sans-serif;
+      background-image:linear-gradient(rgb(74, 51, 2),rgb(212, 164, 4),rgb(74, 51, 2),rgb(212, 164, 4),rgb(74, 51, 2),rgb(212, 164, 4),rgb(74, 51, 2));
+    }
+    .column {
+      float: left;
+      width: 20%;
+      padding: 10px;
+      overflow: hidden;
+      border-radius: 70px;;
+    }
+    .row {margin: 0 -5px;
+    margin-top:-60px}
+    .row:after {
+      display: table;
+      clear: both;
+    }
+    @media screen and (max-width:899px) {
+      .column {
+      float: left;
+      width: 25%;
+      padding: 10px;
+    }
+    }
+    @media screen and (max-width:679px) {
+      .column {
+      float: left;
+      width: 33.33%;
+      padding: 10px;
+    }
+    }
+    @media screen and (max-width:499px) {
+      .column {
+      float: left;
+      width: 50%;
+      padding: 10px;
+    }
+    }
+    @media screen and (max-width:399px) {
+      .column {
+      float: left;
+      width: 100%;
+      padding: 10px;
+    }
+    
+    }
+    .container{
+    position: relative;
+    height:100px;
+    width: 100%;
+    padding: 20px 10px;
+    margin-bottom: 0px;
+
+}
+.container .search-box{
+    position: relative;
+    height: 42px;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+    .search-box input{
+    position: absolute;
+    height:100%;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: #323334;
+    padding: 0 15px 0 45px;
+    color: #fff;
+    border-radius: 6px;
+  }
+  .search-box input{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: #323334;
+    padding: 0 15px 0 45px;
+    color: #fff;
+    border-radius: 6px;
+}
+.search-box i{
+    position: absolute;
+    z-index: 2;
+    color: #999;
+    top: 50%;
+    left: 15px;
+    font-size: 20px;
+    transform: translateY(-50%);
+}
+.flip-card {
+      background-color: transparent;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+      padding: 0px;
+      text-align: center;
+      background-position: center;
+      background-repeat:no-repeat;
+      overflow: hidden;
+      height: 235px;
+}
+@media(max-width:1302px){
+  .flip-card {
+background-color: transparent;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+      padding: 0px;
+      text-align: center;
+      background-position: center;
+      background-repeat:no-repeat;
+      overflow: hidden;
+      height: 265px;
+}
+}
+@media(max-width:399px){
+  .flip-card {
+background-color: transparent;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+      padding: 0px;
+      text-align: center;
+      background-position: center;
+      background-repeat:no-repeat;
+      overflow: hidden;
+      height: 235px;
+}
+}
+.flip-card-inner {
+position: relative;
+width: 100%;
+height: 100%;
+text-align: center;
+transition: transform 0.6s;
+transform-style: preserve-3d;
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+position: absolute;
+width: 100%;
+height: 100%;
+-webkit-backface-visibility: hidden;
+backface-visibility: hidden;
+}
+
+.flip-card-front {
+background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-beautiful-broken-white-gold-marble-background-picture-image_1391849.jpg);
+color:rgb(156, 128, 0);
+}
+
+.flip-card-back {
+background-image: url(https://png.pngtree.com/background/20210716/original/pngtree-beautiful-broken-white-gold-marble-background-picture-image_1391849.jpg);
+color:rgb(156, 128, 0);
+transform: rotateY(180deg);
+}
+@media(max-width:500px)
+{
+  .tablink {
+  background-color: rgb(44, 30, 0);
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 11px;
+  width: 25%;
+}
+}
+.flip-card a h1{
+  margin-top: 0px;
+  color:rgb(156, 128, 0);
+  text-decoration: underline;
+}
+.flip-card-back img{
+margin-top: -15px;
+
+}
+.encapsulare::-webkit-scrollbar {
+    background-color: transparent;
+    width: 0.5rem;
+    height:0.1rem;
+  }
+  
+  .encapsulare::-webkit-scrollbar-thumb {
+    background-image: -webkit-gradient(linear, left top, right top, from(black) to(black));
+    background-image: linear-gradient(to right,black,black);
+    border-radius: 1rem;
+}
