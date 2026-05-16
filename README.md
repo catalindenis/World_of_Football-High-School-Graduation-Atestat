@@ -2,7 +2,7 @@
 <img width="876" height="473" alt="image" src="https://github.com/user-attachments/assets/901fc0f4-af91-4e5d-98bd-621a28c2037a" />
 
 
-World is Football is a football website developed as a high school graduation 
+A football website developed as a high school graduation 
 project (atestat). The goal of the project was to create an informative and 
 visually appealing platform dedicated to football, covering topics such as 
 teams, players, and the sport in general.
