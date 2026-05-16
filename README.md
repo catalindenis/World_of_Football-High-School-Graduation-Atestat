@@ -32,4 +32,4 @@ and extensions to streamline the workflow and maintain clean, organized code.
 
 ## Author
 
-Denis — High School Graduation Project (Atestat), 2023
+Baicu Denis — High School Graduation Project (Atestat), 2023
